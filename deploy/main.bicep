@@ -8,4 +8,3 @@ param location string
 ])
 param environmentType string
 
-#
